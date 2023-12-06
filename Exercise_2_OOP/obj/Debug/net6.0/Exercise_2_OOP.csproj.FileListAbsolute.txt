@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\bin\Debug\net6.0\Exercise_2_OOP.exe
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\bin\Debug\net6.0\Exercise_2_OOP.deps.json
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\bin\Debug\net6.0\Exercise_2_OOP.runtimeconfig.json
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\bin\Debug\net6.0\Exercise_2_OOP.dll
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\bin\Debug\net6.0\Exercise_2_OOP.pdb
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.dll
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\refint\Exercise_2_OOP.dll
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.pdb
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\Exercise_2_OOP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Exercises\Exercise_2_OOP\obj\Debug\net6.0\ref\Exercise_2_OOP.dll
